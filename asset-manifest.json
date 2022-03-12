@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/convin-assignment/static/css/main.663de19f.css",
+    "main.js": "/convin-assignment/static/js/main.70b60038.js",
+    "static/js/787.4c5806fe.chunk.js": "/convin-assignment/static/js/787.4c5806fe.chunk.js",
+    "index.html": "/convin-assignment/index.html",
+    "main.663de19f.css.map": "/convin-assignment/static/css/main.663de19f.css.map",
+    "main.70b60038.js.map": "/convin-assignment/static/js/main.70b60038.js.map",
+    "787.4c5806fe.chunk.js.map": "/convin-assignment/static/js/787.4c5806fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663de19f.css",
+    "static/js/main.70b60038.js"
+  ]
+}
